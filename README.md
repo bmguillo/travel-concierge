@@ -2,7 +2,7 @@
 
 > **AI-Powered Travel Itinerary, Destination & Postcard Assistant**
 >
-> *** Built in Google's Antigravity *** 
+> ***Built in Google's Antigravity*** 
 
 <p align="center">
   <img src="demo.gif" alt="Travel Concierge Demo" width="100%" />
