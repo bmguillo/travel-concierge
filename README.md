@@ -1,8 +1,12 @@
 # Travel Concierge
 
-An AI-powered travel assistant built with the **Google Agent Development Kit (ADK)**, Vertex AI, and Google Cloud Platform (GCP). The Travel Concierge plans personalized itineraries, checks live destination weather, converts currencies, searches nearby places, remembers user allergies and preferences across sessions, and generates visual travel postcards and short video previews.
+> **AI-Powered Travel Itinerary, Destination & Postcard Assistant**
 
-![Travel Concierge Demo](demo.gif)
+<p align="center">
+  <img src="demo.gif" alt="Travel Concierge Demo" width="100%" />
+</p>
+
+*Watch full recorded demo with audio: [demo.mp4](demo.mp4)*
 
 ---
 
@@ -51,6 +55,7 @@ travel-concierge/
 │   └── static/
 │       └── index.html         # Custom web UI with A2UI renderer & prompt chips
 ├── demo.gif                   # Looping demo recording
+├── demo.mp4                   # Original MP4 demo video recording with lo-fi audio
 ├── agents-cli-manifest.yaml   # Agent deployment manifest configuration
 └── requirements.txt           # Python dependencies
 ```
